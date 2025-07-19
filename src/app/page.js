@@ -7,10 +7,10 @@ export default function Home() {
   return (
 <div className="min-h-screen w-full flex flex-col items-center justify-start text-white pt-20 px-6 bg-cover bg-center bg-no-repeat bg-[url('/pic.jpeg')]">
       <Head>
-        <title>Chaaya Kada</title>
+        <title>Anshu Singh</title>
       </Head>
       <h1 className="text-5xl md:text-6xl font-bold mb-5 mt-85 md:mt-0 text-center">
-  Saiyarra 
+Anshu
 </h1>
 
 <div className="mt-38 md:mt-32 flex flex-wrap gap-6 justify-center">
