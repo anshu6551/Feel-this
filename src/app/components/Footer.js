@@ -12,7 +12,7 @@ export default function Footer() {
           Next.js
         </a>
         
-        </a>
+        
       </div>
     </footer>
   );
