@@ -10,7 +10,7 @@ export default function Home() {
         <title>Chaaya Kada</title>
       </Head>
       <h1 className="text-5xl md:text-6xl font-bold mb-5 mt-85 md:mt-0 text-center">
-  chaaya kada
+  saiyarra 
 </h1>
 
 <div className="mt-38 md:mt-32 flex flex-wrap gap-6 justify-center">
