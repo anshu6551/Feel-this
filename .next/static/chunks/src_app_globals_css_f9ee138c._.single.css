@@ -364,8 +364,8 @@
     }
   }
 
-  .bg-\[url\(\'\/teashop\.png\'\)\] {
-    background-image: url("/teashop.png");
+  .bg-\[url\(\'\/image\.webp\'\)\] {
+    background-image: url("/image.webp");
   }
 
   .bg-cover {

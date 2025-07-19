@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 
 export default function Home() {
   return (
-<div className="min-h-screen w-full flex flex-col items-center justify-start text-white pt-20 px-6 bg-cover bg-center bg-no-repeat bg-[url('/teashop.png')]">
+<div className="min-h-screen w-full flex flex-col items-center justify-start text-white pt-20 px-6 bg-cover bg-center bg-no-repeat bg-[url('/image.webp')]">
       <Head>
         <title>Chaaya Kada</title>
       </Head>
